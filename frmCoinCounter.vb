@@ -16,6 +16,7 @@ Public Class frmCoinCounter
         Next obj
 
 
+
     End Sub
 
     Private Sub spnAmount_Click(sender As Object, e As EventArgs) Handles spnAmount.Click
